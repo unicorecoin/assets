@@ -1,0 +1,11 @@
+{
+  "name": "UniCoreCoin",
+  "symbol": "UC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "UniCoreCoin is a galaxy-wide cryptocurrency for gaming, NFTs, and digital economies.",
+  "website": "https://unicorecoin.com",
+  "explorer": "https://polygonscan.com/token/0xE10105Ae169a8CBc7A2ea29aBF76488AA191f09D",
+  "status": "active",
+  "id": "0xE10105Ae169a8CBc7A2ea29aBF76488AA191f09D"
+}
